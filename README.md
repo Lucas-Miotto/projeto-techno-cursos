@@ -2,6 +2,8 @@
 
 Projeto com lista de cursos, aulas e contato utilizando vue router para rotas e API externa para conteúdo.
 
+## Estrutura e modulos do projeto
+
 ## Project setup
 
 ```
