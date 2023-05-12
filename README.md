@@ -5,7 +5,7 @@ Projeto feito para praticar e aprender um pouco mais sobre as rotas no vue.
 ## Estrutura e módulos do projeto
 
 - Componentes: Loading da página e header;
-- Mixins: Método de fetch para API externa para conteúdo..
+- Mixins: Método de fetch API externa para conteúdo.
 - Router: Utilizando vue router;
 - Views: Home, cursos, curso, aula e contato.
 
